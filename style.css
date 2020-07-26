@@ -1,0 +1,27 @@
+p{
+	font-family: geneva;
+}
+h1{
+	border-bottom: 4px solid green;
+	width: 400px;
+	border-right: 4px solid green;
+	box-shadow: 3px 3px 5px #888888;
+	cursor: pointer;
+	text-align: center
+}
+img:hover{
+	transition: all .5s;
+	transform: scale(1.05);
+	cursor: pointer;
+	}
+body{
+		margin-left: 15px}
+
+p1{
+	border: 3px dashed #39004d;
+	box-shadow: 2px 2px 3px #888888
+}
+
+div1{
+	float:right;
+}

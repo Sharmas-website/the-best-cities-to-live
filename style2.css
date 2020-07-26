@@ -1,0 +1,15 @@
+p{
+	font-size: 20px
+
+}
+body{
+	border: 10px solid green;
+	margin:30px 30px;
+	color:rgb(13, 13, 13)
+;
+
+}
+.boxmodel{
+	padding: 20px 20px;
+	background:rgb(194, 194, 163)
+}
