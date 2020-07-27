@@ -25,3 +25,6 @@ p1{
 div1{
 	float:right;
 }
+.container{display:flex;
+	justify-content:center;
+}
